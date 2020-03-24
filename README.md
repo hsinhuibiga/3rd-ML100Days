@@ -1,4 +1,5 @@
-# 3rd-ML100Days
+# Machine Learning 100 Days
+
 Introduction to Machine Learning
 
     Data introduction and evaluation data (application + code) What are the challenges? Think twice before you start analyzing
